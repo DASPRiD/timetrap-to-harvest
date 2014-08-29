@@ -1,0 +1,9 @@
+{
+    "require": {
+        "gridonic/hapi": "dev-master",
+        "zendframework/zend-config": "~2.3",
+        "zendframework/zend-console": "~2.3",
+        "zendframework/zend-json": "~2.3",
+        "zendframework/zend-db": "~2.3"
+    }
+}

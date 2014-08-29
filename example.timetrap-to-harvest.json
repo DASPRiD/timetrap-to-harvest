@@ -1,0 +1,10 @@
+{
+    "db": "~/.timetrap.db",
+    "email": "you@company.com",
+    "password": "your-password",
+    "account": "your-account",
+    "sheets": {
+        "sheet-1": {"projectId": 1, "taskId": 1},
+        "sheet-2": {"projectId": 2, "taskId": 2}
+    }
+}
